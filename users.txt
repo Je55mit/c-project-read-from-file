@@ -1,0 +1,5 @@
+3
+John|Doe|0740123456|john.doe@email.com|2|0|0|0
+Marian|Andrei|07469841345|MarianAndrei@gmail.com|1|0|0
+Muhammed|Ahman|105305310|gmafdmg@gmail.com|1
+CEO|2015-2020|AMD
